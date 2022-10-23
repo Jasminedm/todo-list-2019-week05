@@ -1,4 +1,4 @@
-##To-Do List<hr>
+<h2>To-Do List</h2><hr>
 ###### This To-do list allows the user to input daily task and check them off as they are completed! Once your list is complete and all task are checked off, you'll see an encouraging message for completing your list.  
 
 <h4>View site: https://jasminedm-todolist.netlify.app/</h4>
